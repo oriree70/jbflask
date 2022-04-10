@@ -3,5 +3,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def pretend():
-    return 'Lets pretend this function eats lots of resources! Testing'
+    return 'Lets pretend this function eats lots of resources! Testing testing'
 
